@@ -1,0 +1,16 @@
+.wrapper {
+	border: 2px #202020 solid;
+	border-radius: 10px;
+	height: 40px;
+}
+
+.input {
+	width: calc(100% - 20px);
+	margin-left: 10px;
+	height: 100%;
+	border: none;
+	background-color: transparent;
+	outline: none;
+	font-size: 16px;
+}
+
